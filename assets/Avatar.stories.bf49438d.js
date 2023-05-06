@@ -1,0 +1,2 @@
+import{A as t}from"./index.e4b1c98b.js";import"./jsx-runtime.e557d663.js";import"./iframe.78fd351c.js";import"./index.3aefb704.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/pdavinunes.png",alt:"Davi Nunes"},argTypes:{src:{control:{type:"text"}}}},e={},n={args:{src:void 0,alt:"Davi Nunes"}},p=["Primary","WithFallback"];export{e as Primary,n as WithFallback,p as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.bf49438d.js.map
